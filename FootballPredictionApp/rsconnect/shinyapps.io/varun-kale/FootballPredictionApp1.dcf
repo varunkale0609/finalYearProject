@@ -1,0 +1,14 @@
+name: FootballPredictionApp1
+title: FootballPredictionApp1
+username:
+account: varun-kale
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3963360
+bundleId: 4470472
+url: https://varun-kale.shinyapps.io/FootballPredictionApp1/
+when: 1618407345.71955
+lastSyncTime: 1618407345.71957
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tablesForShinyApp/customapp.css|www/bootstrap.min.css|www/customapp.css|withoutTransfer|withoutTransfer1|withTransfer|withTransfer1
